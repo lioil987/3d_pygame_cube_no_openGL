@@ -2,6 +2,8 @@
 
 This Python script uses the Pygame library to create a simple 3D visualization of circles and edges. The script defines classes for managing shapes, their positions, and their transformations. It also includes a basic user interface to interact with the visualization by rotating and transforming the shapes.
 
+![3D Visualization](preview/screenshot.png)
+
 ## Features
 
 - 3D transformations: Rotate and transform shapes in 3D space.

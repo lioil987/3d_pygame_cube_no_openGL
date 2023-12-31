@@ -6,7 +6,6 @@ This Python script uses the Pygame library to create a simple 3D visualization o
 
 - 3D transformations: Rotate and transform shapes in 3D space.
 - User Interface: Use keyboard events to interact with the 3D scene.
-- Circle Distance and Edge Creation: Find distances between circles and create edges between the closest circles.
 - Continuous Execution: The script runs in an infinite loop to continuously update the display based on user interactions.
 
 ## Getting Started
@@ -21,10 +20,9 @@ This Python script uses the Pygame library to create a simple 3D visualization o
 2. **Run the Script:**
    - Execute the script using the following command:
      ```bash
-     python your_script_name.py
+     python main.py
      ```
-     Replace `your_script_name.py` with the name of your Python script.
-
+   
 3. **Interact with the Visualization:**
    - Use the following keys to interact with the 3D scene:
      - W/S: Rotate around the X-axis.
@@ -49,4 +47,4 @@ If you have suggestions or find issues with the code, feel free to open an issue
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License

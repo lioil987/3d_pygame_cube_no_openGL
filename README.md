@@ -1,6 +1,6 @@
-# Pygame 3D Visualization
+# Pygame 3D Cube
 
-This Python script uses the Pygame library to create a simple 3D visualization of circles and edges. The script defines classes for managing shapes, their positions, and their transformations. It also includes a basic user interface to interact with the visualization by rotating and transforming the shapes.
+This Python script uses the Pygame library to create a simple 3D visualization of cube. The script defines classes for managing shapes, their positions, and their transformations. It also includes a basic user interface to interact with the visualization by rotating and transforming the shapes.
 
 ![3D Visualization](preview/demo.gif)
 

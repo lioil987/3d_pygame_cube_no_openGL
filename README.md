@@ -1,4 +1,4 @@
-# Pygame 3D Cube
+# Pygame 3D Cube (no openGL)
 
 This Python script uses the Pygame library to create a simple 3D visualization of cube. The script defines classes for managing shapes, their positions, and their transformations. It also includes a basic user interface to interact with the visualization by rotating and transforming the shapes.
 
